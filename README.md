@@ -394,7 +394,9 @@ Check the documentation
 Review troubleshooting guide
 
 # Developer Profile
-About the Developer
+About the Developer: 
+# ![koushikhy](https://github.com/user-attachments/assets/475dd95c-692b-4beb-adb2-9ac26b01e92b)
+
 KOUSHIK HY - Full Stack Developer
 I am a Full-Stack developer based in KARNATAKA, India. I am an COMPUTER SCIENCE AND DESIGN undergraduate from MYSORE UNIVERSITY SCHOOL OF ENGINEERING.
 Professional Background
@@ -415,10 +417,10 @@ Real-time system architecture
 
 # Contact Information
 
-# Email: koushik4475@gmail.com
-# Location: Karnataka, India - 570012
-# Portfolio: https://koushikhy.netlify.app
-# Project Demo: https://visionexus.netlify.app
+ Email: koushik4475@gmail.com
+ Location: Karnataka, India - 570012
+ Portfolio: https://koushikhy.netlify.app
+ Project Demo: https://visionexus.netlify.app
 
 # Development Philosophy
 Working for myself to improve my skills - This project represents a commitment to continuous learning and pushing the boundaries of what's possible with Python-based AI surveillance systems.
