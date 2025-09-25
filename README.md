@@ -395,7 +395,7 @@ Review troubleshooting guide
 
 # Developer Profile
 About the Developer: 
-# ![koushikhy](https://github.com/user-attachments/assets/475dd95c-692b-4beb-adb2-9ac26b01e92b)
+ ![koushikhy](https://github.com/user-attachments/assets/475dd95c-692b-4beb-adb2-9ac26b01e92b)
 
 KOUSHIK HY - Full Stack Developer
 I am a Full-Stack developer based in KARNATAKA, India. I am an COMPUTER SCIENCE AND DESIGN undergraduate from MYSORE UNIVERSITY SCHOOL OF ENGINEERING.
