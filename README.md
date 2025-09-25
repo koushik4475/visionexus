@@ -81,18 +81,7 @@ Export functionality for reports
 
 🛠️ Setup Instructions for Screenshots
 1. Directory Structure for Documentation
-visio-nexus/
-├── screenshots/
-│   ├── home-page.png              # Main dashboard
-│   ├── registration-portal.png    # Criminal registration
-│   ├── visiolens-interface.png    # Photo analysis
-│   ├── live-surveillance.png      # Real-time monitoring
-│   ├── email-alert.png           # Email notification
-│   ├── database-info.png         # Database viewer
-│   └── system-architecture.png   # Technical diagram
-├── docs/
-│   └── VISUAL_GUIDE.md           # Detailed visual guide
-└── [existing project files]
+
 <img width="803" height="597" alt="image" src="https://github.com/user-attachments/assets/b4690525-74fc-4ae3-a154-b9846a3a70ab" />
 Screenshot File Descriptions:
 
@@ -197,8 +186,9 @@ Performance monitoring and optimization
 Multi-threaded processing for smooth operation
 
 Installation Requirements
-Dependencies
+# Dependencies
 bashpip install opencv-python
+# ###############################
 pip install opencv-contrib-python
 pip install face-recognition
 pip install Pillow
@@ -210,7 +200,8 @@ pip install playsound
 pip install psutil
 pip install imutils
 pip install pyttsx3
-System Requirements
+# ###############################
+ # System Requirements
 
 Python 3.7+
 Webcam/Camera device
@@ -219,16 +210,16 @@ Multi-core processor (for optimal performance)
 
 Setup Instructions
 
-Clone the Repository
+# Clone the Repository
 
 bashgit clone https://github.com/yourusername/visio-nexus.git
 cd visio-nexus
 
-Install Dependencies
+# Install Dependencies
 
 bashpip install -r requirements.txt
 
-Create Required Directories
+# Create Required Directories
 
 bashmkdir dataSet
 mkdir recognizer
@@ -237,9 +228,9 @@ mkdir detected_criminals
 mkdir screenshots
 mkdir docs
 
-Database Setup
+# Database Setup
 The SQLite database will be created automatically on first run.
-Email Configuration (Optional)
+# Email Configuration (Optional)
 Edit the email settings in visio-live.py:
 
 pythonself.sender_email = "your-email@gmail.com"
@@ -247,21 +238,21 @@ self.sender_password = "your-app-password"
 self.receiver_email = "recipient@gmail.com"
 Usage Guide
 Getting Started
-
-Launch the Main Interface
-
+# ###############################
+# Launch the Main Interface     #
+# ###############################
 bashpython home.py
 
-Register Criminals
+# Register Criminals
 
 
-Click "REGISTER CRIMINAL DATABASE"
+# Click "REGISTER CRIMINAL DATABASE"
 Fill in all profile information
 Choose camera capture or file upload
 Complete biometric training
 
 
-Start Live Surveillance
+# Start Live Surveillance
 
 
 Click "LIVE VIDEO SURVEILLANCE"
@@ -269,7 +260,7 @@ System will load known faces
 Real-time detection begins automatically
 
 
-Analyze Photos
+ #  Analyze Photos
 
 
 Click "Visio-lens"
@@ -317,33 +308,13 @@ Frame skipping for real-time performance
 Efficient caching systems
 Memory management and garbage collection
 
-Database Schema
-sqlCREATE TABLE people (
-    ID INTEGER PRIMARY KEY,
-    name TEXT,
-    FatherName TEXT,
-    MotherName TEXT,
-    Gender TEXT,
-    Religion TEXT,
-    "Blood Group" TEXT,
-    BodyMark TEXT,
-    Nationality TEXT,
-    crime TEXT
-);
-File Structure
-visio-nexus/
-├── home.py                 # Main interface
-├── missionportal.py        # Registration system
-├── trainer.py              # Model training
-├── visiolens.py           # Photo analysis
-├── visio-live.py          # Live surveillance
-├── dataSet/               # Training images
-├── recognizer/            # Trained models
-├── temp/                  # Temporary files
-├── detected_criminals/    # Alert images
-├── screenshots/           # Documentation images
-├── docs/                  # Additional documentation
-└── criminal.db            # SQLite database
+# Database Schema
+<img width="479" height="346" alt="image" src="https://github.com/user-attachments/assets/ce3fdcb2-f83f-49ca-9348-a88a9695e6c9" />
+
+
+#  File Structure
+<img width="463" height="364" alt="image" src="https://github.com/user-attachments/assets/2c1b8d4e-65ac-4c15-9042-f0db83a6485e" />
+
 🎨 Interface Highlights
 Mission: Impossible Theme Elements
 The system incorporates authentic IMF (Impossible Mission Force) design:
