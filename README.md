@@ -94,7 +94,6 @@ visio-nexus/
 │   └── VISUAL_GUIDE.md           # Detailed visual guide
 └── [existing project files]
 <img width="803" height="597" alt="image" src="https://github.com/user-attachments/assets/b4690525-74fc-4ae3-a154-b9846a3a70ab" />
-
 Screenshot File Descriptions:
 
 home-page.png - Main dashboard interface
