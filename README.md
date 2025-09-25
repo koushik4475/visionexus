@@ -9,7 +9,7 @@ Preview the System: https://visionexus.netlify.app
 
 # 📸 Visual System Overview
 
- Main Dashboard (home.py)
+#  Main Dashboard (home.py)
 <img width="1541" height="801" alt="start py ui" src="https://github.com/user-attachments/assets/8adcadcd-c98b-4844-96b1-359d351cd27c" />
 
 Mission: Impossible inspired main dashboard with animated particle effects and IMF-style interface
@@ -21,7 +21,7 @@ Mission: Impossible themed design elements
 Quick access to all surveillance modules
 Performance monitoring panels
 
-🎯 Criminal Registration Portal (missionportal.py)
+# 🎯 Criminal Registration Portal (missionportal.py)
 
 <img width="1763" height="1067" alt="register criminal ui" src="https://github.com/user-attachments/assets/b100ad04-b859-4cfb-8793-d7bed8ebe3e0" />
 
@@ -34,10 +34,10 @@ Support for camera and file-based input
 Mission briefing system with typewriter effects
 Advanced animated backgrounds (Matrix effects, scanning radar)
 
-🔍 Visio-Lens Analysis (visiolens.py)
+# 🔍 Visio-Lens Analysis (visiolens.py)
 <img width="1919" height="1079" alt="visio-lens ui detect criminal" src="https://github.com/user-attachments/assets/21218246-0242-486c-8ebb-5299e086490f" />
 
-Advanced photo analysis system with dark theme and confidence scoring
+Advanced photo analysis system with dark theme and confidence scoring ( inspired by google lens ) 
 Features:
 
 Upload and analyze individual photos
@@ -46,7 +46,7 @@ Detailed criminal profile viewer
 Text-to-speech announcements
 Modern dark UI with professional styling
 
-📹 Live Surveillance System (visio-live.py)
+# 📹 Live Surveillance System (visio-live.py)
 
 <img width="1919" height="1079" alt="surviellance camera ui" src="https://github.com/user-attachments/assets/76dc4683-06ec-4fab-a576-683461ba2cd5" />
 
@@ -58,7 +58,7 @@ Instant criminal identification overlays
 Performance optimization with multi-threading
 Live detection results with confidence scores
 
-📧 Email Alert System
+# 📧 Email Alert System
 
 <img width="1919" height="1079" alt="send email with location" src="https://github.com/user-attachments/assets/1fb640f5-7f5f-4261-891a-dd82c05f968f" />
 
@@ -71,7 +71,7 @@ Location information with Google Maps integration
 Timestamp and detection confidence data
 Automatic threat level assessment
 
-🗄️ Database Information Panel
+# 🗄️ Database Information Panel
 
 <img width="1919" height="1079" alt="used sqlite db for db management" src="https://github.com/user-attachments/assets/3724fccd-51be-4004-af31-72d4b9b2dca5" />
 
@@ -84,7 +84,7 @@ Search and filter capabilities
 Export functionality for reports
 
 
-🛠️ Setup Instructions for Screenshots
+# 🛠️ Setup Instructions for Screenshots
 1. Directory Structure for Documentation
 
 <img width="803" height="597" alt="image" src="https://github.com/user-attachments/assets/b4690525-74fc-4ae3-a154-b9846a3a70ab" />
