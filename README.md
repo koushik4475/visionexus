@@ -7,8 +7,9 @@ Mission: Impossible - Dead Reckoning Inspired
 Preview the System: https://visionexus.netlify.app
 
 
-📸 Visual System Overview
-🏠 Main Dashboard (home.py)
+# 📸 Visual System Overview
+
+# 🏠 Main Dashboard (home.py)
 <img width="1541" height="801" alt="start py ui" src="https://github.com/user-attachments/assets/8adcadcd-c98b-4844-96b1-359d351cd27c" />
 
 Mission: Impossible inspired main dashboard with animated particle effects and IMF-style interface
