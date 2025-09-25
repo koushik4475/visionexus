@@ -415,10 +415,10 @@ Real-time system architecture
 
 # Contact Information
 
- Email: koushik4475@gmail.com
- Location: Karnataka, India - 570012
- Portfolio: https://koushikhy.netlify.app
- Project Demo: https://visionexus.netlify.app
+1  Email: koushik4475@gmail.com.
+2  Location: Karnataka, India - 570012.
+3  Portfolio: https://koushikhy.netlify.app
+4  Project Demo: https://visionexus.netlify.app
 
 # Development Philosophy
 Working for myself to improve my skills - This project represents a commitment to continuous learning and pushing the boundaries of what's possible with Python-based AI surveillance systems.
