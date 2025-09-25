@@ -13,6 +13,7 @@ Preview the System: https://visionexus.netlify.app
 <img width="1541" height="801" alt="start py ui" src="https://github.com/user-attachments/assets/8adcadcd-c98b-4844-96b1-359d351cd27c" />
 
 Mission: Impossible inspired main dashboard with animated particle effects and IMF-style interface
+
 Key Features:
 
 Animated particle background with connecting lines
@@ -38,6 +39,7 @@ Advanced animated backgrounds (Matrix effects, scanning radar)
 <img width="1919" height="1079" alt="visio-lens ui detect criminal" src="https://github.com/user-attachments/assets/21218246-0242-486c-8ebb-5299e086490f" />
 
 Advanced photo analysis system with dark theme and confidence scoring ( inspired by google lens ) 
+
 Features:
 
 Upload and analyze individual photos
