@@ -375,7 +375,7 @@ Surveillance and monitoring regulations
 Consent requirements for biometric data collection
 Proper data retention and deletion policies
 
-Contributing
+# Contributing
 We welcome contributions to improve VISIO-NEXUS:
 
 Fork the repository
@@ -384,7 +384,7 @@ Make your changes
 Add tests if applicable
 Submit a pull request
 
-License
+# License
 This project is released under the MIT License. See LICENSE file for details.
 Support
 For issues, questions, or contributions:
@@ -393,7 +393,7 @@ Create an issue on GitHub
 Check the documentation
 Review troubleshooting guide
 
-Developer Profile
+# Developer Profile
 About the Developer
 KOUSHIK HY - Full Stack Developer
 I am a Full-Stack developer based in KARNATAKA, India. I am an COMPUTER SCIENCE AND DESIGN undergraduate from MYSORE UNIVERSITY SCHOOL OF ENGINEERING.
@@ -413,14 +413,14 @@ Python development with advanced GUI frameworks
 Database management and optimization
 Real-time system architecture
 
-Contact Information
+# Contact Information
 
-Email: koushik4475@gmail.com
-Location: Karnataka, India - 570012
-Portfolio: https://koushikhy.netlify.app
-Project Demo: https://visionexus.netlify.app
+# Email: koushik4475@gmail.com
+# Location: Karnataka, India - 570012
+# Portfolio: https://koushikhy.netlify.app
+# Project Demo: https://visionexus.netlify.app
 
-Development Philosophy
+# Development Philosophy
 Working for myself to improve my skills - This project represents a commitment to continuous learning and pushing the boundaries of what's possible with Python-based AI surveillance systems.
 Project Vision
 VISIO-NEXUS represents the intersection of advanced computer vision technology with cinematic user experience design, inspired by Mission: Impossible's futuristic surveillance systems. This project demonstrates expertise in:
